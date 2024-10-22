@@ -53,7 +53,7 @@ Este modpack **Vanilla+** para **Minecraft Forge 1.20.1** ofrece una experiencia
 
 ### 🚀 **Cómo Instalar**:
 
-1. Descarga el modpack desde los enlaces de [CurseForge](#) o [GitHub](#).
+1. Descarga el modpack desde los enlaces de [CurseForge](https://www.curseforge.com/minecraft/modpacks/vanilla-wonders-create-edition) o [GitHub](https://github.com/ByAlexTTV/Vanilla-Wonders-Create-Edition/releases).
 2. Usa **Minecraft Forge 1.20.1** para ejecutar el modpack.
 3. Asigna al menos **6GB de RAM** (8GB recomendados con shaders).
 4. Para los mejores gráficos, activa los **Shaders Complementary**.
@@ -139,7 +139,7 @@ This **Vanilla+** modpack for **Minecraft Forge 1.20.1** enhances the survival a
 
 ### 🚀 **How to Install**:
 
-1. Download the modpack from [CurseForge](#) or [GitHub](#).
+1. Download the modpack from [CurseForge](https://www.curseforge.com/minecraft/modpacks/vanilla-wonders-create-edition) or [GitHub](https://github.com/ByAlexTTV/Vanilla-Wonders-Create-Edition/releases).
 2. Use **Minecraft Forge 1.20.1** to run the modpack.
 3. Allocate at least **6GB of RAM** (8GB recommended with shaders).
 4. For the best graphics, enable the **Complementary Shaders**.
